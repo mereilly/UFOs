@@ -4,7 +4,8 @@ You'll also create filters to make this table fully dynamic, meaning that it wil
 
 On this project, we assist datajournalist Dana on a story analyzing data of UFO sightings in Oregon, specifically her home town. 
 
-Using java script we can add filters and make up an html script to put the final article online.
+Using java script we can add filters and make up an html script to put the final article online. This was the layout goal she had and we kept in mind when making the html component: 
+
 
 Introduction to Module 11(15 mins)
 JavaScript Basics (1 hour)
