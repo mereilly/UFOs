@@ -1,10 +1,17 @@
 # UFOs
 
-You'll also create filters to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing.
+## Background and Purpose
+On this project, we assist datajournalist Dana on a story analyzing data of UFO sightings in Oregon, specifically her home town. Using java script we were able to post her story with her data for reference, and we were able to add filters on an html script to put the final article online and more accesible, comprehensable, and engaging, to the public at large who may read her piece.
 
-On this project, we assist datajournalist Dana on a story analyzing data of UFO sightings in Oregon, specifically her home town. 
+## Results
+This was the layout goal she had and we kept in mind when making the html component: 
+![Desired_StoryBoard_Layout](https://user-images.githubusercontent.com/82982952/137645331-07feea1e-502c-482e-96d0-33636753ff39.png)
+Ultimately, we crafted this page:
+![Final_Dashboard](https://user-images.githubusercontent.com/82982952/137645336-3b6bd09a-1296-47ae-9f40-2995cdb4d09d.png)
 
-Using java script we can add filters and make up an html script to put the final article online. This was the layout goal she had and we kept in mind when making the html component: 
+Here you can see the filters on the page meant to make the table (which is pretty sizable) more dynamic,reacting to user input:
+![Screen Shot 2021-10-17 at 5 17 32 PM](https://user-images.githubusercontent.com/82982952/137645344-c5904d44-36c5-48d7-877c-5f921f2930dc.png)
+
 
 
 Introduction to Module 11(15 mins)
